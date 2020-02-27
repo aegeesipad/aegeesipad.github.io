@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "M84KHRJQ5Q.online.seraphim.messenger",
+             "paths": [ "*"]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "M84KHRJQ5Q.online.seraphim.messenger" ]
+   }
+}
